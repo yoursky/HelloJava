@@ -1,4 +1,4 @@
-package singleton;
+package designPattern.singleton;
 /**
  * Singleton pattern example with static factory method
  */
